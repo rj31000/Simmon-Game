@@ -7,7 +7,7 @@ import {HashRouter} from 'react-router-dom'
 function App() {
   
   return (
-    <div className="App min-h-screen bg-red-500">
+    <div className="App min-h-screen bg-yellow-100">
       
       <HashRouter>
       <Route path="/" exact component={Heading} />
