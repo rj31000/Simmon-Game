@@ -7,7 +7,7 @@ import { Route, BrowserRouter } from 'react-router-dom';
 function App() {
   
   return (
-    <div className="App min-h-screen bg-yellow-100">
+    <div className="App min-h-screen bg-red-500">
       
       <BrowserRouter>
       <Route path="/" exact component={Heading} />
