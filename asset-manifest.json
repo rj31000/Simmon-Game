@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Simmon-Game/static/css/main.8855d1eb.chunk.css",
+    "main.js": "/Simmon-Game/static/js/main.3da8ad45.chunk.js",
+    "main.js.map": "/Simmon-Game/static/js/main.3da8ad45.chunk.js.map",
+    "runtime-main.js": "/Simmon-Game/static/js/runtime-main.2f81c489.js",
+    "runtime-main.js.map": "/Simmon-Game/static/js/runtime-main.2f81c489.js.map",
+    "static/js/2.3084876e.chunk.js": "/Simmon-Game/static/js/2.3084876e.chunk.js",
+    "static/js/2.3084876e.chunk.js.map": "/Simmon-Game/static/js/2.3084876e.chunk.js.map",
+    "static/js/3.69caba59.chunk.js": "/Simmon-Game/static/js/3.69caba59.chunk.js",
+    "static/js/3.69caba59.chunk.js.map": "/Simmon-Game/static/js/3.69caba59.chunk.js.map",
+    "index.html": "/Simmon-Game/index.html",
+    "static/css/main.8855d1eb.chunk.css.map": "/Simmon-Game/static/css/main.8855d1eb.chunk.css.map",
+    "static/js/2.3084876e.chunk.js.LICENSE.txt": "/Simmon-Game/static/js/2.3084876e.chunk.js.LICENSE.txt",
+    "static/media/blue.0407f886.mp3": "/Simmon-Game/static/media/blue.0407f886.mp3",
+    "static/media/green.bb7cfbf2.mp3": "/Simmon-Game/static/media/green.bb7cfbf2.mp3",
+    "static/media/red.cda1b21a.mp3": "/Simmon-Game/static/media/red.cda1b21a.mp3",
+    "static/media/wrong.09270cc3.mp3": "/Simmon-Game/static/media/wrong.09270cc3.mp3",
+    "static/media/yellow.ea398e3e.mp3": "/Simmon-Game/static/media/yellow.ea398e3e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f81c489.js",
+    "static/js/2.3084876e.chunk.js",
+    "static/css/main.8855d1eb.chunk.css",
+    "static/js/main.3da8ad45.chunk.js"
+  ]
+}
