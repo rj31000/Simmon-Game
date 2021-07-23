@@ -6,6 +6,7 @@ import audio3 from '../sounds/yellow.mp3'
 import audio4 from '../sounds/blue.mp3'
 import audio5 from '../sounds/wrong.mp3'
 
+
 const Game = () => {
 
   const [green,Setgreen]=useState(false);
@@ -46,7 +47,7 @@ const Game = () => {
       }
     }
     else{ 
-      sethea(`Game Over, You reached level ${level}`);
+      sethea(`Game Over, You reached level ${level-1}`);
       playAudio5();
       startover();
     }
@@ -122,7 +123,7 @@ const Game = () => {
   const startover=() =>{
     setpattern([]);
     Setstarted(false);
-    setlevel(0);
+    setlevel(1);
   }
     
   return (
